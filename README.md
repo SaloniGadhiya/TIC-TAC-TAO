@@ -1,9 +1,7 @@
-╔═══════════════════════════════════════════╗
-║           Welcome to Tic-Tac-Toe!           ║
-╚═══════════════════════════════════════════╝
+Welcome to Tic-Tac-Toe!
 
 Instructions:
-- Two players take turns placing their symbols on a 3x3 grid.
+- Two players take turns placing X and O symbols on a 3x3 grid.
 - The first to get three in a row wins.
 
 Controls:
